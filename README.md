@@ -1,5 +1,6 @@
 # fyp
-This is my final year project. I did try my best and hope it can help others. 
+This is my final year project, A Development of Password Reset System Using Graphical Interface. 
+I did try my best and hope it can help others. 
 It is about a web-based system with graphical authentication, but I use it on password recovery. 
 So, basically it is a graphical password. 
 And also it is choice-based and click-based graphical authentication
